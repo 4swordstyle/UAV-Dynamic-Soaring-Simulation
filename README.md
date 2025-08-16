@@ -1,6 +1,6 @@
 # Energy-Optimal Pathfinding for UAVs using Bio-Inspired Dynamic Soaring
 
-**A high-school research project by [Your Name]**
+**A high-school research project by Keven Luiru**
 
 ## 1. Abstract
 
