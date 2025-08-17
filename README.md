@@ -21,7 +21,7 @@ The simulation was built using Python with the NumPy library for vector calculat
 
 The two pilot algorithms were simulated for 200 seconds. The resulting flight paths and energy consumption profiles were saved into a single image.
 
-![Simulation Results](results_plot.png)
+![Simulation Results](results1_plot.png)
 
 The plots provide the clearest evidence. The direct-flight pilot's energy decreased linearly and rapidly. In contrast, the soaring pilot's energy profile shows oscillations where energy is cyclically gained and lost. The overall rate of energy loss for the soaring pilot was substantially lower than that of the control pilot, successfully demonstrating energy harvesting from the environment.
 
