@@ -43,6 +43,4 @@ This simulation confirms that dynamic soaring is a viable and highly effective s
 
 ## Demo Video
 
-## Demo Video
-
 [![Watch the Demo Video](demo_thumbnail.png)](https://youtu.be/y9lLPD6TVpo)
