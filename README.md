@@ -43,4 +43,6 @@ This simulation confirms that dynamic soaring is a viable and highly effective s
 
 ## Demo Video
 
-*[Link to your 30-60 second screen recording of `simulation.py` running]*
+## Demo Video
+
+[![Watch the Demo Video](demo_thumbnail.png)](https://youtu.be/y9lLPD6TVpo)
