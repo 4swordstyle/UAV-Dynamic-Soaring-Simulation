@@ -1,5 +1,5 @@
 # ==============================================================================
-# FINAL RSI-LEVEL EXPERIMENT: STATION-KEEPING WITH FUEL CONSUMPTION
+# FINAL EXPERIMENT: STATION-KEEPING WITH FUEL CONSUMPTION
 # ==============================================================================
 import numpy as np
 import matplotlib.pyplot as plt
